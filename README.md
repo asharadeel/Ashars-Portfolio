@@ -1,8 +1,29 @@
-# Ashars-Portfolio
-ECS417 Fundamentals of Web Development Project
+# Ashars Portfolio Website
 
+Static version is available here: [asharadeel.github.io](https://asharadeel.github.io/homepage.html)
 
-Portfolio site. This is the dynamic version.
-The static version can be viewed on 
-- Github: https://github.com/asharadeel/asharadeel.github.io
-- Online: https://asharadeel.github.io/homepage.html
+Portfolio Website and blog
+Made for ECS414 Fundamentals of Web Technologies
+
+---
+
+## Features
+
+- Contains a forum "blog"
+- Login option
+- Multiple pages
+  
+---
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- XAMPP
+- PHPMyAdmin
+- Apache
+
+---
+
